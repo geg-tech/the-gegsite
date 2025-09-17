@@ -1,2 +1,3 @@
 # the-gegsite
-personal website (for boba drops!)
+website for my hack club thingy
+
